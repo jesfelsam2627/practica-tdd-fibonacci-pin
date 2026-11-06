@@ -1,0 +1,23 @@
+{
+  "name": "practica-tdd-fibonacci-pin",
+  "version": "1.0.0",
+  "description": "fibonacci-pin",
+  "main": "fibonacci-pin.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
