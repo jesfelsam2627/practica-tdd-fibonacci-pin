@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { fibonacci } from '../src/fibonacci.js';
+import { fibonacci } from '../src/fibonacci-pin.js';
 
 describe('Función fibonacci(n)', () => {
   it('lanza RangeError si n < 0', () => {
